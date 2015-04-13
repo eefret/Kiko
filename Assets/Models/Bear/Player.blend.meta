@@ -73,6 +73,17 @@ ModelImporter:
     100130: toe_R
     100132: upper_arm_L
     100134: upper_arm_R
+    100136: Bone
+    100138: Bone_001
+    100140: Bone_002
+    100142: Bone_003
+    100144: Bone_004
+    100146: Bone_005
+    100148: Bone_006
+    100150: Bone_007
+    100152: Bone_008
+    100154: Bone_009
+    100156: Bone_010
     400000: Armature
     400002: chest
     400004: Cylinder
@@ -141,11 +152,27 @@ ModelImporter:
     400130: toe_R
     400132: upper_arm_L
     400134: upper_arm_R
+    400136: Bone
+    400138: Bone_001
+    400140: Bone_002
+    400142: Bone_003
+    400144: Bone_004
+    400146: Bone_005
+    400148: Bone_006
+    400150: Bone_007
+    400152: Bone_008
+    400154: Bone_009
+    400156: Bone_010
     2300000: Cylinder
     3300000: Cylinder
     4300000: Cylinder
     7400000: Default Take
+    7400002: Eating
+    7400004: EatingFish
+    7400006: Fighting
+    7400008: Walk
     9500000: //RootNode
+    13700000: Cylinder
   materials:
     importMaterials: 1
     materialName: 0
